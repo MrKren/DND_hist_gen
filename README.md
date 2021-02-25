@@ -1,2 +1,2 @@
-# DND_hist_gen
+# Fanatsy History Generator
 A zero player game that generates a world and history for DnD campaigns
